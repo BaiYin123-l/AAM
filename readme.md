@@ -1,0 +1,36 @@
+# 个人开源许可证模板
+
+版权声明 (C) 2025/4/29 Baiyin123-l. 保留所有权利。
+
+## 许可声明
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 免责声明
+
+- **未完善代码免责声明**
+  ：作者上传的代码可能处于未完善状态，使用者在下载或使用前应自行审查代码的质量与安全性。使用者因使用未完善代码而遭受的任何损失或损害，作者不承担任何责任。使用者在使用代码前，应确保代码符合其预期用途，并自行承担因代码缺陷可能导致的风险。作者不对代码的性能、稳定性或安全性提供任何形式的保证。您可以访问中国政府网 [https://www.gov.cn/guoqing/2021-10/29/content_5647633.htm](https://www.gov.cn/guoqing/2021-10/29/content_5647633.htm)
+  了解更多关于《中华人民共和国著作权法》的相关信息。
+
+- **版权保护**：本软件受《中华人民共和国著作权法》保护。未经授权，任何个人或组织不得对软件进行复制、分发、修改或其他侵犯版权的行为。
+
+- **个人使用限制**
+  ：本软件仅限于个人学习、研究或欣赏目的使用。未经版权所有者明确书面许可，不得将本软件用于任何商业目的，包括但不限于通过软件获取商业利益、向第三方提供服务或用于生产、销售等商业活动。根据《中华人民共和国著作权法》第二十二条，个人使用应符合以下条件：
+
+    - 目的：为个人学习、研究或欣赏；
+
+    - 数量：不得超出必要限度；
+
+    - 来源：应标明出处，以尊重原作者的权益。
+
+### 适用法律
+
+本许可证受中华人民共和国法律管辖。如果您对本许可证有任何疑问，请咨询专业法律人士。
